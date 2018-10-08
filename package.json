@@ -1,0 +1,22 @@
+{
+  "name": "yhjeong-vue-sample",
+  "version": "0.0.1",
+  "description": "Vue Sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semidex37/yhjeong-vue-sample.git"
+  },
+  "keywords": [
+    "yhjeong-vue-sample"
+  ],
+  "author": "yhjeong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/semidex37/yhjeong-vue-sample/issues"
+  },
+  "homepage": "https://github.com/semidex37/yhjeong-vue-sample#readme"
+}
