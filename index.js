@@ -1,1 +1,2 @@
-export default const message = 'yhjeong-vue-sample';
+const message = 'yhjeong-vue-sample';
+module.exports = message;
