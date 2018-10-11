@@ -1,6 +1,6 @@
 {
   "name": "yhjeong-vue-sample",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vue Sample",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/semidex37/yhjeong-vue-sample.git"
   },
+  "files": [
+    "dist/"
+  ],
   "keywords": [
     "yhjeong-vue-sample"
   ],
